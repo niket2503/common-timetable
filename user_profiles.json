@@ -1,0 +1,41 @@
+{
+    "Niket Gupta": {
+        "subjects": [
+            "CRM",
+            "CS(S2)",
+            "DAP",
+            "FIS",
+            "SIMCO(S2)"
+        ],
+        "attendance": {}
+    },
+    "Abc": {
+        "subjects": [
+            "CRM",
+            "CS(S2)",
+            "DAP",
+            "FIS",
+            "SIMCO(S2)",
+            "B2B"
+        ],
+        "attendance": {}
+    },
+    "Niket": {
+        "key_hash": "8a3fb3769fa8ccd2a4acf1f05f29cb7895e490a0b1d5e7f3954a4cb98b629e80",
+        "subjects": [
+            "CRM",
+            "CS(S2)",
+            "DAP",
+            "FIS",
+            "SIMCO(S2)"
+        ],
+        "attendance": {
+            "2026-06-11_12:30-14:00 hrs": "",
+            "2026-06-10_9:00-10:30 hrs": "",
+            "2026-06-10_18:30-20:00 hrs": "",
+            "2026-06-08_12:30-14:00 hrs": "Y",
+            "2026-06-09_9:00-10:30 hrs": "Y",
+            "2026-06-09_20:15- 21:45 hrs": "Y"
+        }
+    }
+}
